@@ -1,3 +1,3 @@
-# Projet-joker2
+Joker 2: Page de Paiement via Lightning Network
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Zizouk22/Projet-joker2)
+Créer une page de paiement utilisant le Lightning Network pour accepter des paiements en Bitcoin. La page doit générer une facture (invoice) Lightning, permettre à l'utilisateur de payer et vérifier la transaction.
